@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+If you are looking for my *CV* you can find it [here](https://github.com/mdabrowski89/cv).
+
 <!--
 **mdabrowski89/mdabrowski89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
